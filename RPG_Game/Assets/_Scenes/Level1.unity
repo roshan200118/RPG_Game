@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.6619026, g: 0.46069777, b: 0.45491207, a: 1}
+  m_IndirectSpecularColor: {r: 0.66179013, g: 0.45985794, b: 0.45454502, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -28053,16 +28053,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'It is the year 2069 on the island town of Nunyabusinessistan. You are
-    Steven Megama, the sole laboratory assistant to Dr. Richard Fromage, a controversial
-    scientist who had just invented secret formulas to enhance human abilities! Just
-    as you were finalizing your work, a freak accident caused a radioactive blast
-    which turned everybody in the surrounding town into a zombie! The blast knocked
-    everybody in the lab, and you wake up days later finding a note from your Dr.
-    Fromage.
+  m_Text: 'It is the year 2070 on the island town of Nunya. You are Steven Morgan,
+    the sole laboratory assistant to Dr. Cheese Fromage, a controversial scientist
+    who had just invented secret formulas to enhance human abilities! Just as you
+    were finalizing your work, a freak accident caused a radioactive blast which
+    turned everybody in the surrounding town into a zombie! The blast knocked everybody
+    in the lab, and you wake up days later finding a note from your Dr. Fromage.
 
 
-    [Press c to close]
+    [Press
+    c to close]
 
 '
 --- !u!222 &746375181
@@ -52310,7 +52310,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Dear Steven Megama,
+  m_Text: 'Dear Steven Morgan,
 
 
     I hope this note has found you well. It has
@@ -52325,11 +52325,11 @@ MonoBehaviour:
 
     Regards,
 
-    Dr. Richard Fromage
+    Dr. Cheese Fromage
 
 
-    [Press
-    x to close]
+    [Press x
+    to close]
 
 '
 --- !u!222 &1315563228
